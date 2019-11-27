@@ -1,0 +1,27 @@
+name: bertelsmann
+channels:
+  - pytorch
+dependencies:
+  # Python
+  - python=3.6
+  - ipython
+  - pip
+
+  # Maths & Data Analysis
+  - numpy
+  - scipy
+  - pandas
+
+  # Plotting
+  - matplotlib
+  - seaborn
+
+  # Machine Learning
+  - scikit-learn
+
+  # Deep Learning
+  - pytorch=1.3
+  - torchvision
+
+  # Jupyter
+  - jupyter
