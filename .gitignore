@@ -1,5 +1,8 @@
 # Jupyter
 .ipynb_checkpoints
 
+# PyTorch datasets
+02_intro-to-pytorch/data/MNIST
+
 # macOS
 .DS_Store
