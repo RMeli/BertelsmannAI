@@ -3,6 +3,7 @@
 
 # PyTorch datasets
 02_intro-to-pytorch/data/MNIST
+02_intro-to-pytorch/data/FashionMNIST
 
 # macOS
 .DS_Store
