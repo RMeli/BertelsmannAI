@@ -12,3 +12,7 @@
 
 * CNN for [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) classification
 * CNN for [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) classification with data augmentation and regularization
+
+### Style Transfer
+
+* Neural Style Transfer
