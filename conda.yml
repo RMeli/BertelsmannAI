@@ -1,6 +1,7 @@
 name: bertelsmann
 channels:
   - pytorch
+  - conda-forge
 dependencies:
   # Python
   - python=3.6
