@@ -2,8 +2,8 @@
 .ipynb_checkpoints
 
 # PyTorch datasets
-02_intro-to-pytorch/data/MNIST
-02_intro-to-pytorch/data/FashionMNIST
+05_intro-to-pytorch/data/MNIST
+05_intro-to-pytorch/data/FashionMNIST
 
 # macOS
 .DS_Store
