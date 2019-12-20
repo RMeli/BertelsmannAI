@@ -5,6 +5,9 @@
 MNIST/
 FashionMNIST/
 
+# PyTorch models
+models/
+
 # macOS
 .DS_Store
 
