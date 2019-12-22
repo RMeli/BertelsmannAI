@@ -1,5 +1,10 @@
 # Bertelsmann Technology Scholarship - AI Track
 
+## References
+
+* [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) (Udacity Course)
+* [Deep Learning (PyTorch)](https://github.com/udacity/deep-learning-v2-pytorch) (Udacity GitHub)
+
 ## Introduction to Deep Learning with PyTorch
 
 ### Introduction to PyTorch
@@ -16,3 +21,8 @@
 ### Style Transfer
 
 * Neural Style Transfer
+
+### Recurrent Neural Networks
+
+* RNN for time-series prediction
+* Character-level LSTM for text generation
