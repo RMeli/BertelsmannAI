@@ -1,1 +1,1 @@
-nbstripout --keep-output --keep-count **/*.ipynb
+nbstripout --keep-output **/*.ipynb
