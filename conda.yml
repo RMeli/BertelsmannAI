@@ -27,3 +27,7 @@ dependencies:
   # Jupyter
   - jupyter
   - nbstripout
+
+  # Devtools
+  - flake8
+  - black
