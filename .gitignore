@@ -19,3 +19,6 @@ nohup*.out
 
 # editors
 .vscode
+
+# Udacity
+.udacity-pa
