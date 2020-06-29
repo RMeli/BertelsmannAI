@@ -24,6 +24,9 @@ dependencies:
   - pytorch=1.4
   - torchvision
 
+  # Misc
+  - tqdm
+
   # Jupyter
   - jupyter
   - nbstripout

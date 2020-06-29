@@ -15,13 +15,14 @@ Most of the notebooks are based on the ones in the official [Deep Learning (PyTo
 ### Introduction to PyTorch
 
 * MLP for classification
-* MLP for classification with tensors and autograd
+* MLP for classification with tensors and `autograd`
 * MLP for classification with validation
 
 ### Convolutional Neural Networks
 
 * CNN for classification
 * CNN for classification with data augmentation and regularization
+* CNN for classification with dropouts
 
 ### Style Transfer
 
@@ -29,6 +30,16 @@ Most of the notebooks are based on the ones in the official [Deep Learning (PyTo
 
 ### Recurrent Neural Networks
 
-* RNN for time-series prediction
+* RNN for time series prediction
 * Character-level LSTM for text generation
 * Word-level LSTM with embedding for text classification
+
+## Neural Networks
+
+### Sentiment Analysis
+
+* MLP for sentiment analysis
+
+### Project
+
+* MLP for prediction of bike-sharing patterns
