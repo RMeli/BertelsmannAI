@@ -1,10 +1,10 @@
-name: bertelsmann
+name: bertelsmannai
 channels:
   - pytorch
   - conda-forge
 dependencies:
   # Python
-  - python=3.6
+  - python=3.7
   - ipython
   - pip
 
