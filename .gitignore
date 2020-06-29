@@ -10,12 +10,18 @@ FashionMNIST/
 
 # PyTorch models
 models/
+*.pt
+*.pth
 
 # macOS
 .DS_Store
 
 # nohup
 nohup*.out
+
+# archives
+*.zip
+*.tar.gz
 
 # editors
 .vscode
