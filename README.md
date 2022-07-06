@@ -9,37 +9,3 @@ Most of the notebooks are based on the ones in the official [Deep Learning (PyTo
 * [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) (Udacity Course)
 * [Deep Learning (PyTorch)](https://github.com/udacity/deep-learning-v2-pytorch) (Udacity GitHub)
 * [PyTorch Tutorials](https://pytorch.org/tutorials/)
-
-## Introduction to Deep Learning with PyTorch
-
-### Introduction to PyTorch
-
-* MLP for classification
-* MLP for classification with tensors and `autograd`
-* MLP for classification with validation
-
-### Convolutional Neural Networks
-
-* CNN for classification
-* CNN for classification with data augmentation and regularization
-* CNN for classification with dropouts
-
-### Style Transfer
-
-* Neural Style Transfer
-
-### Recurrent Neural Networks
-
-* RNN for time series prediction
-* Character-level LSTM for text generation
-* Word-level LSTM with embedding for text classification
-
-## Neural Networks
-
-### Sentiment Analysis
-
-* MLP for sentiment analysis
-
-### Project
-
-* MLP for prediction of bike-sharing patterns
